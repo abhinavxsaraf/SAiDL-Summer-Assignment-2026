@@ -1,9 +1,3 @@
-# SAiDL Summer Assignment 2026
-
-This repository contains my submission for the SAiDL Summer 2026 Induction Assignment.
-
-## Tasks Attempted
-
 ### 1. Core ML Task
 
 Implemented and evaluated architectural approaches for long-context modeling in decoder-only Transformers using WikiText-2.
