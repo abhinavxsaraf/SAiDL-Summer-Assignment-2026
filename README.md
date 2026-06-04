@@ -1,4 +1,4 @@
-### 1. Core ML Task
+### 1. Core ML
 
 Implemented and evaluated architectural approaches for long-context modeling in decoder-only Transformers using WikiText-2.
 
