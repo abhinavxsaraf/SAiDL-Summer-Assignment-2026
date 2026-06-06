@@ -59,10 +59,10 @@ Components explored include:
 
 ## Files
 
-### Sparsity_and_Optimization.pdf
+- `Sparsity_and_Optimization.pdf`
 Full report containing theoretical background, derivations, experiments, results, and analysis.
 
-### Sparsity_and_Optimization.ipynb
+- `Sparsity_and_Optimization.ipynb`
 Google Colab notebook containing implementation and experiments.
 
 ## Running the Code
@@ -74,10 +74,5 @@ Open:
 `Sparsity_and_Optimization.ipynb`
 
 and run in Colab or Jupyter.
-
-Experiments were conducted using:
-
-- DeBERTa-v3-base (184M parameters)
-- CoLA dataset from the GLUE benchmark
 
 Full experimental details and results are provided in the report.
