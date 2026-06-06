@@ -60,9 +60,11 @@ Components explored include:
 ## Files
 
 - `Sparsity_and_Optimization.pdf`
+
   Full report containing theoretical background, derivations, experiments, results, and analysis.
 
 - `Sparsity_and_Optimization.ipynb`
+
   Google Colab notebook containing implementation and experiments.
 
 ## Running the Code
