@@ -1,4 +1,4 @@
-### 1. Core ML
+## 1. Core ML
 
 Implemented and evaluated architectural approaches for long-context modeling in decoder-only Transformers using WikiText-2.
 
@@ -42,7 +42,7 @@ Transformers_long_context_modeling.ipynb
 
 and run in Colab or Jupyter.
 
-# 2. Sparsity and Optimization
+## 2. Sparsity and Optimization
 
 Implemented and evaluated parameter-efficient fine-tuning (PEFT) methods and sparse optimization techniques on the CoLA benchmark using DeBERTa-v3-base.
 
